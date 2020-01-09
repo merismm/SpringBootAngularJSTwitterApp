@@ -1,4 +1,4 @@
-interview-twitter
+
 Basic info
 This project is used for testing candidates through implementing features on simplified Twitter clone app.
 
