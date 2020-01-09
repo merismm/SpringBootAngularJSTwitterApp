@@ -19,9 +19,14 @@ Base implementation features
 Implemented features should be easily understable from source code but here's the quick summary:
 
 Login
+
 Create a tweet
+
 Overview of all the following users tweets
+
 View of users own tweets
+
 View following users
+
 View followers
  
